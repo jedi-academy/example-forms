@@ -3,9 +3,9 @@
 <div class="container">
 	<nav>
 		<ul>
-			<li><a href="#">Panels</a></li>
-			<li><a href="#">Responsive layout</a></li>
-			<li><a href="#">Multiple layouts</a></li>
+			<li><a href="/loose/p01">Escaping data</a></li>
+			<li><a href="/loose/p02">Integrating third party package</a></li>
+			<li><a href="/loose/p03">Uploading files</a></li>
 			<li><a href="#">Client-driven layouts</a></li>
 		</ul>
 		<a href="/">Home</a>

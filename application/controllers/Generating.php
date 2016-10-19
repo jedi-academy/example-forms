@@ -7,7 +7,6 @@ class Generating extends Application {
 	function __construct()
 	{
 		parent::__construct();
-		$this->load->model('contacts'); // so we can use this everywhere here
 		$this->load->library('parser'); // so we don't have to do this inside methods
 		$this->load->helper('html');
 
