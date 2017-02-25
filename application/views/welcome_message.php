@@ -5,6 +5,6 @@
 	<ol>
 		<li><a href="/generating">Generating</a> HTML forms</li>
 		<li><a href="/handling">Handling</a> form input</li>
-		<li><a href="/loose">Loose ends</a></li>
+<!--		<li><a href="/loose">Loose ends</a></li>-->
 	</ol>
 </div>
